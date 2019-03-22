@@ -16,17 +16,6 @@ h2, h3, h4, h5, h6{
 p, span, a{
     font-family: "Raleway", sans-serif !important;
 }
-
-.button{
-    padding: 12px;
-    border: 2px solid;
-    border-radius: 3px;
-    text-transform: uppercase;
-    -webkit-transition: all .3s;
-    transition: all .3s;
-    font-size: 16px;
-}
-
 /* Scrollbar */
 
     /* width */
@@ -288,11 +277,11 @@ hr{
 }
 
 #cv .row{
-	margin-bottom: 80px;
+	margin-bottom: 0px;
 }
 
 .skills + .skills{
-    margin-top: 60px;
+    margin-top: 30px;
 
 }
 
@@ -318,6 +307,7 @@ hr{
 
 .exp + .exp{
     margin-top: 60px;
+    
 
 }
 
