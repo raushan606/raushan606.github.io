@@ -67,7 +67,7 @@ p, span, a{
         font-size: 16px !important;
     }
 
-	#projects h2{font-size: 25px !important;}
+	#portfolio h2{font-size: 25px !important;}
 }
 
 
@@ -346,17 +346,17 @@ hr{
 
 
 
-/* RROJECTS*/
+/* portfolio*/
 
 
-#projects{
+#portfolio{
 	padding: 80px 0;
     background: #EBEEEE;
     
 }
 
 
-#projects h2{
+#portfolio h2{
     padding: 0;
     margin: auto;
     margin-bottom: 50px;
@@ -367,13 +367,13 @@ hr{
     
 }
 
-#projects img{
+#portfolio img{
 	max-width: 100%;
     border-bottom: 3px solid red;
     
 }
 
-#projects .row > div{
+#portfolio .row > div{
 	margin-bottom: 1.5rem;
     position: relative;
     
@@ -382,7 +382,7 @@ hr{
 
 
 
-#projects .row div .overlay {
+#portfolio .row div .overlay {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -400,7 +400,7 @@ hr{
     border: 3px solid tomato;
 }
 
-#projects .row div:hover .overlay {
+#portfolio .row div:hover .overlay {
     opacity: 1;
     transform: scale(1);
     height: 100%;
@@ -408,7 +408,7 @@ hr{
     
 }
 
-#projects .row div .overlay h3{
+#portfolio .row div .overlay h3{
     color: #f7f7f7;
     font-size: 20px;
     position: absolute;
